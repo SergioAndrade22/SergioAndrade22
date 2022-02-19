@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hello <b>everyone</b>!</h1>
-  <h3>My name is Sergio Andrade and I am a software developer from Argentina </h3>
+  <h2>My name is Sergio Andrade and I am a software developer from Argentina </h3>
   
-  <h5>My networks:</h5>
+  <h4>My networks:</h5>
   <div align="center">
     <p display="inline">
       <a href="https://discordapp.com/users/Hosuseri#3822">
