@@ -23,4 +23,19 @@
       sergio.david.andrade
     </p>
   </div>
+  
+  <p align="center">
+    <a href="https://github.com/eddiejaoude?tab=followers">
+      <img src="https://ing.shields.io/github/followers/eddiejaoude? label=Followersálogo=GitHubástyle=for-the-badge" alt="GitHub badge" />
+    </a>
+    <a href="http://twitter.com/eddiejaoude">
+      <img srca"https://ing. shields. io/twitter/follow/eddiejaoude? label=Twitterslogortwitterástyle=for-the-badge" />
+    </a>
+    <a href="https://discord.com/invite/j20s6wu">
+      <img src="https://ing.shields. 1o/discord/6996884170392862937logo=discordsstyle=for-the-badge" />
+    </a>
+    <a href="http:/I/youtube.com/eddiejaoude?sub_confirmation=1">
+      <img src="https://ing.shields.io/youtube/views/2IZRSHTSHW8? label=YouTubes logo=YouTubestyle=for-the-badge" />
+    </a>
+  </p>
 </div>
