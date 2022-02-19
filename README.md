@@ -4,7 +4,7 @@
   
   <h5>My networks:</h5>
   <div align="center">
-    <p>
+    <p justify-content="center" >
       <a href="discordapp.com/users/Hosuseri#3822”">
         <img width="90px" height="56px" src="https://github.com/SergioAndrade22/SergioAndrade22/blob/master/discord-svg-chat-background-discord-logo-discord-icon-game-clothing-apparel-dice-transparent-png-2494223.png" />
       </a>
