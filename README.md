@@ -12,15 +12,15 @@
     </li>
     <li>
       <a href="https://www.linkedin.com/in/sergiodandradec/">
-        ![174857](https://user-images.githubusercontent.com/42450899/154784128-e506ae6b-8ead-4992-ada5-44aeb575edcb.png)
-        sergioandradec
+        <img src="https://github.com/SergioAndrade22/SergioAndrade22/blob/master/2048px-Facebook_f_logo_(2019).svg.png" />
       </a>
+      sergioandradec
     </li>
     <li>
       <a href="https://www.facebook.com/sergio.david.andrade/">
-        ![2048px-Facebook_f_logo_(2019) svg](https://user-images.githubusercontent.com/42450899/154784170-106815a1-d7f6-4c01-87a2-5dea79fef3b3.png)
-        sergio.david.andrade
+        <img src="https://github.com/SergioAndrade22/SergioAndrade22/blob/master/174857.png" />
       </a>
+      sergio.david.andrade
     </li>
   <ul>    
 </div>
