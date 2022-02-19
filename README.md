@@ -6,9 +6,9 @@
   <ul>
     <li>
       <a href="discordapp.com/users/Hosuseri#3822”">
-      ![Discord](/discord-svg-chat-background-discord-logo-discord-icon-game-clothing-apparel-dice-transparent-png-2494223.png)
-      Hosuseri#3822
+        ![Discord](/discord-svg-chat-background-discord-logo-discord-icon-game-clothing-apparel-dice-transparent-png-2494223.png)
       </a>
+      Hosuseri#3822
     </li>
     <li>
       <a href="https://www.linkedin.com/in/sergiodandradec/">
