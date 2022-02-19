@@ -6,7 +6,7 @@
   <ul>
     <li>
       <a href="discordapp.com/users/Hosuseri#3822”">
-      ![discord-svg-chat-background-discord-logo-discord-icon-game-clothing-apparel-dice-transparent-png-2494223](https://user-images.githubusercontent.com/42450899/154784197-acb1f5d4-2568-45a2-9001-3e61e2e3d081.png)
+      [Discord](discord-svg-chat-background-discord-logo-discord-icon-game-clothing-apparel-dice-transparent-png-2494223.png)
       Hosuseri#3822
       </a>
     </li>
